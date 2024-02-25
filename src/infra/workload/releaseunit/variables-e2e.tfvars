@@ -5,7 +5,7 @@ aks_system_node_pool_sku_size          = "Standard_D2s_v3" # Adjust as needed fo
 aks_system_node_pool_autoscale_minimum = 1
 aks_system_node_pool_autoscale_maximum = 3
 
-aks_user_node_pool_sku_size          = "Standard_D2s_v2" # Adjust as needed for your workload
+aks_user_node_pool_sku_size          = "Standard_D2s_v3" # Adjust as needed for your workload
 aks_user_node_pool_autoscale_minimum = 2
 aks_user_node_pool_autoscale_maximum = 3
 
